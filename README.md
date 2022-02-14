@@ -10,7 +10,7 @@ NavBar: En progreso (Pendiente de dar toques finales) -> Valentin
 
 Home: Incompleto
 
-About: None -> Valentin
+About: Completado -> Valentin
 
 Pages: None
 
